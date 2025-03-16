@@ -1,0 +1,121 @@
+body {
+    background-color: #eef1da;
+}
+
+.nav li a {
+    color: #adb2d4;
+    font-family: roboto, sans-serif;
+    font-size: 21px;
+}
+
+.nav li a:hover {
+    color: #c7d9dd;
+}
+
+.nav li a.logo {
+    font-family: 'BukhariScript-Regular', sans-serif;
+    color: #c7d9dd;
+}
+
+.nav-container {
+    background-color: #fefff6;
+    border: 10px solid #c7d9dd;
+}
+
+.titel-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+
+}
+
+.contact-container {
+    display: flex;
+    align-items: center;
+    height: 80vh;
+    margin-left: 100px;
+}
+
+h1 {
+    font-family: 'BukhariScript-Regular', sans-serif;
+    font-size: 100px;
+    color: #adb2d4;
+    border: 10px solid #c7d9dd;
+    border-radius: 30px;
+    background-color: #fefff6;
+    padding: 60px;
+}
+
+h2 {
+    font-family: 'BukhariScript-Regular', sans-serif;
+    font-size: 40px;
+    color: #adb2d4;
+}
+
+h3 {
+    font-family: 'BukhariScript-Regular', sans-serif;
+    font-size: 30px;
+    color: #adb2d4;
+}
+
+p {
+    font-family: roboto, sans-serif;
+    font-size: 20px;
+    color: #adb2d4;
+}
+
+.pawprint {
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    margin-top: 80px;
+}
+
+.paw {
+    height: 100px;
+    width: 100px;
+    transform: rotate(-30deg);
+}
+
+.pawprint1 {
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    margin-bottom: 80px;
+}
+
+.paw1 {
+    height: 100px;
+    width: 100px;
+    transform: rotate(35deg);
+}
+
+.contact {
+    font-family: roboto, sans-serif;
+    font-size: 20px;
+    color: #adb2d4;
+}
+
+.text-left {
+    padding: 20px;
+}
+
+.dog {
+    height: 100px;
+    width: 100px;
+    margin-left: 100px;
+    border: 10px solid #c7d9dd;
+    border-radius: 50%;
+    padding: 10px;
+}
+
+.features {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+}
+
+
+
